@@ -1,0 +1,12 @@
+[project]
+name = "translation-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "googletrans>=4.0.2",
+    "gtts>=2.5.4",
+    "langdetect>=1.0.9",
+    "pytelegrambotapi>=4.28.0",
+]
