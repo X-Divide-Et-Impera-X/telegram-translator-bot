@@ -7,7 +7,7 @@ wheels/
 *.egg-info
 
 bot_token.py
-
+*.mp3
 
 # Virtual environments
 .venv
